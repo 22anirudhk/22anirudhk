@@ -1,4 +1,4 @@
-# Hi there <img src = "https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" height="60px" alt="waving-hand-emoji"> ! I'm Anirudh.
+# Hi there! <img src = "https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" height="60px" alt="waving-hand-emoji"> I'm Anirudh.
 
 - 🔭 Currently working on some side projects to hone my web dev & machine learning skills.
 - 🌱 Learning more about backend development & data science research w/ Python.
