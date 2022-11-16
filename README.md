@@ -1,6 +1,6 @@
 # Hi there! <img src = "https://github.com/22anirudhk/22anirudhk/blob/master/waving-gif.gif?raw=true" height="60px" alt="waving-hand-emoji"> I'm Anirudh.
 
-- 🔭 Currently developing some cybersecurity & NLP projects! 
+- 🔭 Currently working on ML! 
 - 📫 Feel free to contact me anytime!
 
 ### Languages and Tools:
